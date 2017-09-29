@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetBundleProject", "AssetBundleProject.csproj", "{C8588708-EA81-7EF4-306B-6B1779FDE4D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetBundleProject.Editor", "AssetBundleProject.Editor.csproj", "{53614A27-8606-2D97-3346-A9F3CF262783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8588708-EA81-7EF4-306B-6B1779FDE4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8588708-EA81-7EF4-306B-6B1779FDE4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8588708-EA81-7EF4-306B-6B1779FDE4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8588708-EA81-7EF4-306B-6B1779FDE4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53614A27-8606-2D97-3346-A9F3CF262783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53614A27-8606-2D97-3346-A9F3CF262783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53614A27-8606-2D97-3346-A9F3CF262783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53614A27-8606-2D97-3346-A9F3CF262783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

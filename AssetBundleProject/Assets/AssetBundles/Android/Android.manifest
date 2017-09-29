@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1717882501
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab/wall.ab
+      Dependencies: {}
